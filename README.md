@@ -1,4 +1,4 @@
-# Swour
+# Swour FR
 
 **English version below**
 
@@ -42,7 +42,7 @@ Swour est un lecteur audio Android conçu pour profiter de votre bibliothèque m
 
 Swour fonctionne entièrement en local. Votre bibliothèque, vos playlists, vos statistiques et la mémoire du Mix Mood restent stockés uniquement sur votre appareil. Aucune connexion Internet n'est requise pour écouter votre musique.
 
-# Swour
+# Swour EN
 
 **Your music, your rules, 100% offline.**
 
